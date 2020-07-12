@@ -1,5 +1,9 @@
 package main
 
+
+AKIAIOSFODNN7EXAMPLE
+
+
 import (
 	"io/ioutil"
 	"os"
